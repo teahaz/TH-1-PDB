@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TH-A1OC")(type "KiCad")(uri "/home/antone/Music/TH-A1OC.git/main/pcb/lib/TH-A1OC.pretty")(options "")(descr ""))
+)
