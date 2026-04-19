@@ -5109,6 +5109,16 @@
 		)
 		(uuid "bb44167e-f1ef-4e54-b811-f6cf1ebed9b6")
 	)
+	(label "CC"
+		(at 54.61 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa68f543-3a44-4ee2-ae5a-62d5858a8df8")
+	)
 	(global_label "PIN5"
 		(shape input)
 		(at 144.78 210.82 270)
