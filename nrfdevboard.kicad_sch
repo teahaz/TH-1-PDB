@@ -5143,7 +5143,7 @@
 	)
 	(global_label "PIN2"
 		(shape input)
-		(at 143.51 111.76 90)
+		(at 140.97 111.76 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5153,7 +5153,7 @@
 		)
 		(uuid "2b778103-2921-4f79-a0b7-d231915092fa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 104.7191 90)
+			(at 140.97 104.7191 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5319,7 +5319,7 @@
 	)
 	(global_label "PIN1"
 		(shape input)
-		(at 140.97 111.76 90)
+		(at 143.51 111.76 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5329,7 +5329,7 @@
 		)
 		(uuid "caa2885e-94a4-4caa-a611-08ef86d4f061")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.97 104.7191 90)
+			(at 143.51 104.7191 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7830,7 +7830,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-1-CC:USBC"
 			(at 40.64 53.34 0)
 			(effects
 				(font
