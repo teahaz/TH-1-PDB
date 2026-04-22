@@ -5053,10 +5053,6 @@
 		(uuid "780c3229-c017-4339-8537-f07236751537")
 	)
 	(no_connect
-		(at 121.92 147.32)
-		(uuid "79beface-2d7a-4c61-8dde-e8686864645b")
-	)
-	(no_connect
 		(at 170.18 123.19)
 		(uuid "7a0328c2-f377-466c-89ab-aea2ad17e27c")
 	)
@@ -5083,6 +5079,10 @@
 	(no_connect
 		(at 170.18 140.97)
 		(uuid "850cb2af-71f5-4e7b-aed7-288ace06d930")
+	)
+	(no_connect
+		(at 147.32 181.61)
+		(uuid "8723f4a0-7105-4678-9244-1463ad5acfdb")
 	)
 	(no_connect
 		(at 43.18 92.71)
@@ -5520,6 +5520,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 147.32) (xy 121.92 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8007585a-6bf0-4146-84bf-db5c512b312b")
+	)
+	(wire
+		(pts
 			(xy 43.18 41.91) (xy 49.53 41.91)
 		)
 		(stroke
@@ -5940,16 +5950,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 181.61) (xy 147.32 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7e41738-3cb7-4725-9e40-cf35877b5b27")
-	)
-	(wire
-		(pts
 			(xy 140.97 111.76) (xy 140.97 113.03)
 		)
 		(stroke
@@ -6018,7 +6018,7 @@
 		)
 		(uuid "4278a9c9-82d3-4d8c-8814-661e97b71292")
 	)
-	(label "D-_r"
+	(label "mcu_D-"
 		(at 135.89 113.03 90)
 		(effects
 			(font
@@ -6028,7 +6028,7 @@
 		)
 		(uuid "578cfc43-2767-4b27-9023-77b2ae4ced21")
 	)
-	(label "D+_r"
+	(label "mcu_D+"
 		(at 138.43 113.03 90)
 		(effects
 			(font
@@ -6094,7 +6094,7 @@
 	)
 	(global_label "PIN10"
 		(shape input)
-		(at 147.32 184.15 270)
+		(at 152.4 184.15 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6104,7 +6104,7 @@
 		)
 		(uuid "1332374f-0fd4-44b0-bc27-494c9ce21b14")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.32 192.2604 90)
+			(at 152.4 192.2604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6842,7 +6842,7 @@
 	)
 	(global_label "PIN8"
 		(shape input)
-		(at 152.4 184.15 270)
+		(at 120.65 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6852,7 +6852,7 @@
 		)
 		(uuid "fa71fb11-f1a3-482c-94b0-1407aec0880a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.4 191.1909 90)
+			(at 113.6091 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -58,9 +58,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.2,
+          "gap": 0.2032,
           "via_gap": 0.0,
-          "width": 0.1575
+          "width": 0.286
         }
       ],
       "drc_exclusions": [],
@@ -515,7 +515,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": ""
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
