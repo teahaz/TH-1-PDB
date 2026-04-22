@@ -11,9 +11,10 @@ An NRF52840 development board which fits into a framework compatible expansion s
 > PDB adapted to fit inside a Framework compatible expansion card.
 > This version is not complete or tested yet.
 
-<img width="366" height="318" alt="image" src="https://github.com/user-attachments/assets/68940a6d-0d25-488e-94c2-66bf63e54bcb" />
+<img width="603" height="566" alt="image" src="https://github.com/user-attachments/assets/e5e11d73-f8d9-4056-b26f-6351f3b273b5" />
 
-<img width="612" height="674" alt="image" src="https://github.com/user-attachments/assets/7daf110a-ab3a-4ad5-bb71-3bfff4f81122" />
+
+<img width="751" height="637" alt="image" src="https://github.com/user-attachments/assets/ca371223-9d49-4eda-9a7b-08b393dea2b3" />
 
 
 
