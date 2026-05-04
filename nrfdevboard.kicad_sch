@@ -8630,7 +8630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "TH-1-CC:PDB_MountingHole_right_2.2mm_M2_Pad"
 			(at 219.71 63.5 0)
 			(effects
 				(font
@@ -10559,7 +10559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "TH-1-CC:PDB_MountingHole_left_2.2mm_M2"
 			(at 222.25 77.47 0)
 			(effects
 				(font
